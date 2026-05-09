@@ -12,7 +12,7 @@
 
 This project applies machine learning to predict a patient's **10-year risk of developing coronary heart disease (CHD)** using structured clinical data from the Framingham Heart Study — one of the most influential longitudinal cardiovascular studies ever conducted.
 
-The full workflow — from raw data to an interactive web application — is implemented in a single, self-contained Jupyter Notebook (`framingham_chd_analysis.ipynb`).
+The full workflow — from raw data to an interactive web application — is implemented in a single, self-contained Jupyter Notebook (`Week7_chd_prediction.ipynb`).
 
 ---
 
@@ -75,7 +75,7 @@ The full workflow — from raw data to an interactive web application — is imp
 
 ```
 .
-├── framingham_chd_analysis.ipynb   # Main notebook (full pipeline)
+├── Week7_chd_prediction.ipynb      # Main notebook (full pipeline)
 ├── train.csv                       # Raw dataset (required)
 └── README.md                       # This file
 ```
